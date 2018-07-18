@@ -1,6 +1,6 @@
 {
   "name": "cache-content-type",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a full Content-Type header given a MIME type or extension and catch the result",
   "main": "index.js",
   "files": [
