@@ -32,10 +32,10 @@
     "lru"
   ],
   "engines": {
-    "node": ">= 8.0.0"
+    "node": ">= 6.0.0"
   },
   "ci": {
-    "version": "8, 10"
+    "version": "6, 8, 10"
   },
   "author": "dead_horse",
   "license": "MIT"
